@@ -1,3 +1,4 @@
+![Profile Views](https://komarev.com/ghpvc/?username=Aaron1231231233123&color=brightgreen)
 # Hello Everyone This Is My Github💓🥹🥹💓
 
 <table>
@@ -23,28 +24,22 @@ Hello and welcome! I'm **Aaron Paul Manalo Villanueva**, currently pursuing my *
 At the moment, I'm fully immersed in **Cloud Computing Services**, exploring innovative ways to leverage cloud technologies for real-world problem-solving and driving meaningful change. I’m always eager to expand my knowledge and put my skills to work on practical projects.
 
 ## What I Bring to the Table
-- 💻 **Programming:** Crafting solutions with code.
-- ☁️ **Cloud Computing:** Harnessing the power of the cloud.
-- 📊 **Data Analysis:** Making sense of data to uncover insights.
-- 🛠️ **Problem Solving:** Tackling challenges with creativity and logic.
-- 🌐 **Web Development:** Building user-friendly web experiences.
-- 🔍 **Research & Analysis:** Digging deep to find answers.
-- 🤝 **Team Collaboration:** Working together to achieve more.
+- 💻 **C++, HTML, CSS, and Python:**
+- ☁️ **Cloud Computing:** 
+- 📊 **Accounting:**
+- 🛠️ **Manog Kay.o ka Ref:** 
 
-## GitHub Stats
-![Aaron Paul's GitHub Stats](https://github-readme-stats.vercel.app/api?username=your-github-username&show_icons=true&theme=radical)
 
-![Top Langs](https://github-readme-stats.vercel.app/api/top-langs/?username=your-github-username&layout=compact&theme=radical)
+## GitHub Stats 
+![Aaron Paul's GitHub Stats](https://github-readme-stats.vercel.app/api?username=Aaron1231231233123&show_icons=true&theme=radical)
 
-![Profile Views](https://komarev.com/ghpvc/?username=your-github-username&color=brightgreen)
+![Top Langs](https://github-readme-stats.vercel.app/api/top-langs/?username=Aaron1231231233123&layout=compact&theme=radical)
 
-![GitHub Streak](http://github-readme-streak-stats.herokuapp.com?user=your-github-username&theme=radical)
+![GitHub Streak](http://github-readme-streak-stats.herokuapp.com?user=Aaron1231231233123&theme=radical)
 
-## Let’s Connect!
-Whether you're looking to collaborate on a project, share ideas, or just chat about all things tech, I’d love to connect! I’m always open to new opportunities and conversations that can spark innovation.
 
 ---
 
 Thank you for stopping by! I’m excited to share my journey with you and learn from the amazing GitHub community. Let’s create something extraordinary together! 🌟
 
-[Visit my GitHub profile](https://github.com/your-github-username)
+[Visit my GitHub profile](https://github.com/![Profile Views](https://komarev.com/ghpvc/?username=Aaron1231231233123&color=brightgreen))
