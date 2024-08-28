@@ -1,5 +1,5 @@
 ![Profile Views](https://komarev.com/ghpvc/?username=Aaron1231231233123&color=brightgreen)
-# Author - 作者
+# ✒️Author - 作者
 
 <table border="0">
   <tr>
@@ -18,19 +18,19 @@
         
 ---
 
-# Why? - 为什么
+# 🗣️Introduction - 为什么
 Hello and welcome! I'm **Aaron Paul Manalo Villanueva**, currently pursuing my **Bachelor of Science in Information Systems** at **West Visayas State University**. My passion lies in the intersection of technology, cloud computing, and the dynamic world of information systems. My journey so far has been quite rough but I was able to manage and conquer the fears that's within me, myself, and I.
 ##
 ---
 
-## My Current Focus - 我目前的重点
+## 💡My Current Focus - 我目前的重点
 At the moment, I'm fully immersed in Cloud Computing Services, exploring innovative ways to leverage cloud technologies for real-world problem-solving and driving meaningful change. I’m always eager to expand my knowledge and put my skills to work on practical projects.
 
 I’ve been fortunate to learn under Sir Nikie Jo Deocampo, who is incredibly respectable and lovable. His guidance and wisdom have been instrumental in shaping my approach, and his positive influence continues to inspire me every day.
 ##
 ---
 
-## My Capabilities - 我的能力
+## 🧠My Capabilities - 我的能力
 - 💻 **C++, HTML, CSS, and Python:**
 - ☁️ **Cloud Computing:** 
 - 📊 **Accounting:**
@@ -38,7 +38,7 @@ I’ve been fortunate to learn under Sir Nikie Jo Deocampo, who is incredibly re
 ##
 ---
 
-## Stats - 统计数据
+## 📊Stats - 统计数据
 <table border="0">
   <tr>
     <td><img src="https://github-readme-stats.vercel.app/api?username=Aaron1231231233123&show_icons=true&theme=radical" alt="Aaron Paul's GitHub Stats"/></td>
