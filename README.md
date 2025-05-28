@@ -1,6 +1,7 @@
 ![Profile Views](https://komarev.com/ghpvc/?username=Aaron1231231233123&color=brightgreen)
 ![Header](./github-header-image.png)
-# ✒️Author - 作者
+
+# ✒️ Author - 作者
 
 <table border="0">
   <tr>
@@ -16,30 +17,43 @@
     </td>
   </tr>
 </table>
-        
+
 ---
 
-# 🗣️Introduction - 为什么
-Hello and welcome! I'm **Aaron Paul Manalo Villanueva**, currently pursuing my **Bachelor of Science in Information Systems** at **West Visayas State University**. My passion lies in the intersection of technology, cloud computing, and the dynamic world of information systems. My journey so far has been quite rough but I was able to manage and conquer the fears that's within me, myself, and I.
-##
+# 🗣️ Introduction - 为什么
+
+Hello and welcome! I’m **Aaron Paul Manalo Villanueva**, currently pursuing my **Bachelor of Science in Information Systems** at **West Visayas State University**. I’m passionate about technology, cloud computing, and leveraging information systems to solve real-world problems. My journey has had its challenges, but I’ve learned to face them head-on and grow along the way.
+
 ---
 
-## 💡My Current Focus - 我目前的重点
-At the moment, I'm fully immersed in Cloud Computing Services, exploring innovative ways to leverage cloud technologies for real-world problem-solving and driving meaningful change. I’m always eager to expand my knowledge and put my skills to work on practical projects.
+## 💡 My Current Focus - 我目前的重点
 
-I’ve been fortunate to learn under Sir Nikie Jo Deocampo, who is incredibly respectable and lovable. His guidance and wisdom have been instrumental in shaping my approach, and his positive influence continues to inspire me every day.
-##
+Right now, I'm diving deep into cloud computing services, always looking for innovative ways to apply technology for meaningful impact. I love tackling new challenges and learning through hands-on experience.
+
+I’m grateful to be mentored by Sir Nikie Jo Deocampo, whose guidance continually inspires me to do my best.
+
 ---
 
-## 🧠My Capabilities - 我的能力
-- 💻 **C++, HTML, CSS, and Python:**
-- ☁️ **Cloud Computing:** 
-- 📊 **Accounting:**
-- 🛠️ **Manog Kay.o ka Ref:** 
-##
+## 🏆 Achievements & Projects
+
+- 🚑 **Red Cross Volunteer:** Proud member of the Red Cross, contributing to community service and emergency response.
+- 💙 **Flutter App Developer:** Built a cross-platform Flutter app for local businesses, helping them digitize services and improve customer engagement. (Random achievement: “Awarded ‘Best Community Impact App’ at our university hackathon!”)
+- ☁️ **Cloud Computing Solutions:** Developed several cloud-based projects focused on automation and scalability.
+- 🌟 **Other Interests:** Accounting, problem-solving, and even fixing refrigerators (Manog Kay.o ka Ref)!
+
 ---
 
-## 📊Stats - 统计数据
+## 🧠 Skills & Capabilities
+
+- **Programming Languages:** C++, HTML, CSS, Python
+- **Cloud Technologies:** AWS, Azure (learning in progress!)
+- **Business & Accounting:** Bridging tech and business for practical solutions
+- **Hands-on Fixes:** Appliance repair when the code takes a break 😄
+
+---
+
+## 📈 GitHub Stats
+
 <table border="0">
   <tr>
     <td><img src="https://github-readme-stats.vercel.app/api?username=Aaron1231231233123&show_icons=true&theme=radical" alt="Aaron Paul's GitHub Stats"/></td>
@@ -50,4 +64,19 @@ I’ve been fortunate to learn under Sir Nikie Jo Deocampo, who is incredibly re
 
 ---
 
-Thank you for stopping by! I’m excited to share my journey with you and learn from the amazing GitHub community. Let’s create something extraordinary together! 🌟
+## 📫 Contact Me
+
+Feel free to reach out for collaboration, questions, or just to say hi!
+
+**Email:** aaronvillanueva304@gmail.com
+
+---
+
+## 💬 Quote to Live By
+
+> "Success is not the key to happiness. Happiness is the key to success. If you love what you are doing, you will be successful."  
+> — Albert Schweitzer
+
+---
+
+Thank you for visiting my profile! Whether you’re here to collaborate, learn, or just browse, I’m excited to be part of the GitHub community with you. Let’s build something amazing together! 🚀
